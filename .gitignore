@@ -1,3 +1,7 @@
+# Sublime Stuff
+*.sublime-workspace
+*.sublime-project
+
 # Prerequisites
 *.d
 
